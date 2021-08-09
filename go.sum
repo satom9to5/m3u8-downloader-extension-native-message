@@ -1,0 +1,9 @@
+github.com/mitchellh/go-ps v1.0.0 h1:i6ampVEEF4wQFF+bkYfwYgY+F/uYJDktmvLPf7qIgjc=
+github.com/mitchellh/go-ps v1.0.0/go.mod h1:J4lOc8z8yJs6vUwklHw2XEIiT4z4C40KtWVN3nvg8Pg=
+github.com/mitchellh/mapstructure v1.4.1 h1:CpVNEelQCZBooIPDn+AR3NpivK/TIKU8bDxdASFVQag=
+github.com/mitchellh/mapstructure v1.4.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
+github.com/satom9to5/m3u8-download v0.0.0-20210527144927-cec838bb1dcb h1:6G0+14WAAMgEIJFPEYv3bQHPJosJvxg2v3zmuuXrZko=
+github.com/satom9to5/m3u8-download/m3u8 v0.0.0-20210527144927-cec838bb1dcb h1:O0moYdoyN5VZRot8mbZy22LWrZySgGl9Y+vF/aiej0s=
+github.com/satom9to5/m3u8-download/m3u8 v0.0.0-20210527144927-cec838bb1dcb/go.mod h1:pYSQJuUMlq+n7jvRVrMVVSQgzAR9SbTvbLkNSfIpRk4=
+github.com/satom9to5/webext v0.0.0-20190226145152-1cd0537acbbc h1:itMhGCcpALI0U2o83Fm+56OO2S66F1GilqwSifuKJF8=
+github.com/satom9to5/webext v0.0.0-20190226145152-1cd0537acbbc/go.mod h1:9RIt/XIpihim7wDNo9XY8P7iAbrIoqYp6daBAnRJJNw=
